@@ -1,0 +1,4 @@
+C:\Users\Jeppe\source\repos\GUI project\x64\Debug\Blocklist tool.exe
+C:\Users\Jeppe\source\repos\GUI project\x64\Debug\Blocklist tool.pdb
+C:\Users\Jeppe\Desktop\comparision_extraction_tool\GUI project\x64\Debug\Blocklist tool.exe
+C:\Users\Jeppe\Desktop\comparision_extraction_tool\GUI project\x64\Debug\Blocklist tool.pdb
